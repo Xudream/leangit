@@ -1,6 +1,1 @@
-hello youa
-aa
-
-
-sdsd
-
+this is my first git
